@@ -4,7 +4,7 @@
 Welcome to the open source implementation of the Resource Connector for Nonprofits - a bot-based Azure Function that handles incoming & outgoing messages.  The bot currently leverages SMS (via Twilio) for connecting people.  This is currently an ACTIVE and OPEN SOURCE project.
 
 # Architecture
-TODO: architecture diagram
+TODO: architecture diagram with resources
 
 # Getting Started for Developers
 ## Local Development
